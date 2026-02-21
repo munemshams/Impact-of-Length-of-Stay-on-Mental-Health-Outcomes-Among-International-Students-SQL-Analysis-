@@ -2,11 +2,11 @@
 
 This project explores whether the length of stay in a foreign country influences the mental health outcomes of international students. Using real survey data collected by a Japanese international university in 2018, the analysis evaluates diagnostic test scores related to:
 
-Depression (PHQ-9)
+- Depression (PHQ-9)
 
-Social Connectedness (SCS)
+- Social Connectedness (SCS)
 
-Acculturative Stress (ASISS)
+- Acculturative Stress (ASISS)
 
 The goal is to determine whether longer time spent in the host country correlates with meaningful changes in these psychological factors.
 
@@ -73,17 +73,17 @@ toas	Acculturative stress score (ASISS test)
 
 **SQL Techniques Used**
 
-Conditional filtering
+- Conditional filtering
 
-Aggregation with AVG() and COUNT()
+- Aggregation with AVG() and COUNT()
 
-Rounding and aliasing
+- Rounding and aliasing
 
-Grouping by categorical values
+- Grouping by categorical values
 
-Sorting
+- Sorting
 
-Creating a final DataFrame named df
+- Creating a final DataFrame named df
 
 **Interpretation of the Output**
 
