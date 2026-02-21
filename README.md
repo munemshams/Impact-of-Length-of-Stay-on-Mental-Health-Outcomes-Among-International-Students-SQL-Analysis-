@@ -1,0 +1,2 @@
+# Impact-of-Length-of-Stay-on-Mental-Health-Outcomes-Among-International-Students-SQL-Analysis-
+This project explores whether the length of stay in a foreign country influences the mental health outcomes of international students. Using real survey data collected by a Japanese international university in 2018, the analysis evaluates diagnostic test scores related to Depression (PHQ-9), Social Connectedness (SCS) &amp; Acculturative Stress (ASISS)
